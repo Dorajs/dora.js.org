@@ -9,7 +9,7 @@ playstore_link                            : https://coolapk.com/apk/com.linroid.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : /assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Dora.js                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Android 上的 内容型 编程平台 使用 JavaScript 作为脚本语言，Node.js 作为运行时
@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : linroid                       
-your_link                                 : https://dorajs.com/                
+your_link                                 : https://dora.js.org/                
 your_city                                 :                                 
 email_address                             : linroid@gmail.com
 facebook_username                         :                                           
